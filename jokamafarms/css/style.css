@@ -107,7 +107,7 @@ header nav {
 }
 
 .services .services-heading .heading {
-    padding-top: 180px;
+    padding-top: 230px;
 }
 
 .services .services-heading span {
@@ -129,6 +129,7 @@ h4 {
 
 .inovation .col p {
    text-align: justify; 
+   margin-top: -10px;
 }
 
 .inovation-bottom {
@@ -196,7 +197,7 @@ div #units {
 /* Contact Form Area */
 
 .contact-area {
-    background-image: url("../images/admin9g.jpg");
+    background-color: rgb(238, 225, 225);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100%;
@@ -206,16 +207,16 @@ div #units {
 }
 
 .form {
-    margin-top: 50px;
-    padding-top: 270px;
+    margin-top: 0px;
+    padding-top: 110px;
     transition: all 4s ease-in-out;
-    padding-left: 50px;
+    padding-left: 300px;
 }
 
 .form-control {
     width: 600px;
-    border: none;
-    outline: none;
+    border: 1px solid lightcoral;
+    outline-style: inset;
     border-bottom: 2px solid rgb(243, 236, 236);
     color: #fff;
     font-size: 18px;
@@ -331,6 +332,9 @@ footer {
     header .site-logo {
         margin-left: .5em;
     }
+    #jokama-farms {
+        margin: 50px;
+    }
     h4 {
         font-size: 1.4rem;
     }
@@ -342,6 +346,7 @@ footer {
     }
     .main-content {
         min-height: 115vh;
+        background-repeat: no-repeat;
     }
     .services {
         min-height: 0;
@@ -356,13 +361,18 @@ footer {
     .inovation .col p {
         text-align: justify;
         font-size: large;
+        margin: -10px
+    }
+    .img-fluid {
+        padding-top: 10px;
     }
     .form-control {
         width: 270px;
         margin-bottom: 0px
     }
     .form {
-        margin-top: 300px;
+        margin-top: 470px;
+        padding-left: 40px;
     }
     form .submit {
         margin-top: 0px;
@@ -376,6 +386,7 @@ footer {
     }
     .contact-area {
         background-image: none;
+        background-color: white;
         margin-top: -115px;
         margin-bottom: 155px;
         height: 60vh;
@@ -389,7 +400,7 @@ footer {
     }
     .footer-copyright {
         padding: 0px;
-        padding-left: 10px;
+        padding-left: 1px;
     }
 }
 
