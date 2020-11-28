@@ -5,8 +5,8 @@ Jokama Farms will revolutionise feeding systems and housing equipment for modern
 
 ## User Expirience (UX)
 * __User Stories__
-    * Details on what service Jokama farms will provide for the Pig House management and Sow management are missing.
-    * For example for Piglet rearing and Jokama Farms AI centre there’s details of what the farm will provide, but for the first two below it’s only a description or introduction, the details on what service Jokama farms will provide will be helpful:
+    * Details on what services Jokama farms will provide for the Pig House management and Sow management are missing.
+    * For example for Piglet rearing and Jokama Farms AI centre there’s details of what the farm will provide, but for the two above it’s only a description or introduction, the details on what service Jokama farms will provide will be helpful:
     * In the contact section, when I fill in my name and move to the next box to put in my email, the name field appears blank and this happens for email andfree text field. Would be great if they were visible once I fill it in to assure me that I have filled them in and they have registered as filled in.
 * __Design__
     * Colour
@@ -15,7 +15,7 @@ Jokama Farms will revolutionise feeding systems and housing equipment for modern
         * Candal and Montserrat are the main fonts used all through the project with Sans Serif as a fallback. Candal is atractive for Logo and main headings.
     * Imagery 
         * The background hero image on the landing page is very important drowing the users attention to the main purpose of the site.
-* Wireframes
+* __Wireframes__
     * For the wireframes - [click here]()
 ## Features
 * Responsive on all devices
@@ -39,3 +39,50 @@ Jokama Farms will revolutionise feeding systems and housing equipment for modern
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project
     * W3C Markup Validator - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjermainr.github.io%2Fjokama-farms%2F)
     * W3C CSS Validator - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjermainr.github.io%2Fjokama-farms%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+* __Futher Testing__
+    * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+    * The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+    * Testing was done to ensure that all pages were linking correctly.
+* __Known Bugs__
+    * On mobile devices the margins between the headings and content is abit being.
+    * The image on the About page is etreamly small for mobile devices.
+## Deployment
+__GitHub Pages__
+
+Project was deployed to GitHub pages using the following steps;
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/JermainR/jokama-farms)
+1. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+1. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+1. Under "Source", click the dropdown called "None" and select "Master Branch".
+1. The page will automatically refresh.
+1. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+__Making a Local Clone__
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/JermainR/jokama-farms)
+1. Under the repository name, click "Clone or download".
+1. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+1. Open Git Bash
+1. Change the current working directory to the location where you want the cloned directory to be made.
+1. Type git clone, and then paste the URL you copied in Step 3.
+1. Press Enter. Your local clone will be created.
+## Credits
+__Code__
+
+* Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+* The full-screen hero image code came from the jokama-farms repository.
+__Content__
+
+* All content was written by the developer
+* The properties of colours and text in the README.md came from Code Intitute Sample README
+
+__Images__
+
+* Images were created by developer
+
+__Acknowledgements__
+
+* Student care at Code Institutes for prompt respose to queries.
+* Tutor support at Code Institute for their support.
+* My Mentor for continuous helpful feedback and support.
+
