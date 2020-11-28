@@ -37,5 +37,5 @@ Jokama Farms will revolutionise feeding systems and housing equipment for modern
     * Balsamiq was used to create the wireframes during the design process
 ## Testing
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project
-    * W3C Markup Validator - [Results]()
-    * W3C CSS Validator - [Results]()
+    * W3C Markup Validator - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjermainr.github.io%2Fjokama-farms%2F)
+    * W3C CSS Validator - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjermainr.github.io%2Fjokama-farms%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
