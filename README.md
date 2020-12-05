@@ -16,7 +16,11 @@ Jokama Farms will revolutionise feeding systems and housing equipment for modern
     * Imagery 
         * The background hero image on the landing page is very important drowing the users attention to the main purpose of the site.
 * __Wireframes__
-    * For the wireframes - [click here]()
+    * Home - [click here](/images/home.jpg)
+    * About Us - [Click here](/images/aboutus.jpg)
+    * Services - [Click here](/images/services.jpg)
+    * Products - [Click here](/images/products.jpg)
+    * Contact - [Click here](/images/contact.jpg)
 ## Features
 * Responsive on all devices
 ## Technologies used
@@ -78,7 +82,7 @@ __Content__
 
 __Images__
 
-* Images were created by developer
+* Images were created by developer and some from google images
 
 __Acknowledgements__
 
